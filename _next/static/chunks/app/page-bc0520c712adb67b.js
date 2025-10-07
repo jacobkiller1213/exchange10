@@ -264,7 +264,7 @@
                                     (0, s.jsxs)("span", {
                                       className: "minSumExchange",
                                       children: [
-                                        null == h ? void 0 : h.min_receive,
+                                        null == h ? void 0 : h.min_receive.toFixed(8),
                                         " ",
                                         null == h ? void 0 : h.currency,
                                       ],
