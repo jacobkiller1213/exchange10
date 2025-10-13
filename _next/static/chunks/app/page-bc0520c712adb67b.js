@@ -770,7 +770,7 @@
               (0, s.jsx)("div", {
                 className: "copyrights",
                 children:
-                  "\xa9 2025 Swapium. Копирование материалов только с разрешения правообладателя.",
+                  "\xa9 2025 SwiftShift. Копирование материалов только с разрешения правообладателя.",
               }),
             ],
           });
@@ -839,7 +839,7 @@
                         (0, s.jsx)("a", {
                           className:
                             "nav-panel-link register-nav-link button button-primary",
-                          href: "https://t.me/swapium_io",
+                          href: "https://t.me/SwiftShift_net",
                           children: "Поддержка",
                         }),
                         (0, s.jsx)("button", {

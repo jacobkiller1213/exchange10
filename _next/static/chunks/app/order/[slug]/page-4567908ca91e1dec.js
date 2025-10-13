@@ -370,7 +370,7 @@
                                         : "Мы проверяем данные в заявке и обрабатываем её.",
                                   }),
                                   (0, l.jsx)("a", {
-                                    href: "https://t.me/swapium_io",
+                                    href: "https://t.me/SwiftShift_net",
                                     className:
                                       "form-section-name order-result-description",
                                     style: { textDecoration: "underline" },
@@ -570,7 +570,7 @@
               (0, l.jsx)("div", {
                 className: "copyrights",
                 children:
-                  "\xa9 2025 Swapium. Копирование материалов только с разрешения правообладателя.",
+                  "\xa9 2025 SwiftShift. Копирование материалов только с разрешения правообладателя.",
               }),
             ],
           });
@@ -639,7 +639,7 @@
                         (0, l.jsx)("a", {
                           className:
                             "nav-panel-link register-nav-link button button-primary",
-                          href: "https://t.me/swapium_io",
+                          href: "https://t.me/SwiftShift_net",
                           children: "Поддержка",
                         }),
                         (0, l.jsx)("button", {
